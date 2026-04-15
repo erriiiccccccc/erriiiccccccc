@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eric Ng</h1>
-<h3 align="center">Computer Science @ University of Edinburgh
-ericng8766@gmail.com</h3>
+<h3 align="center">Computer Science @ University of Edinburgh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erriiiccccccc&label=Profile%20views&color=0e75b6&style=flat" alt="erriiiccccccc" /> </p>
 
-- 🔭 I’m currently working on **improving my CV for better internship opportunities**
+- Open to interesting opportunities and building things that are cool!
 
-- 📫 How to reach me **ericng8766@gmail.com**
+- How to reach me **ericng8766@gmail.com**
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
