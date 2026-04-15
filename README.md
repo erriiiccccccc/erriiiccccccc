@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eric Ng</h1>
-<h3 align="center">A Bachelor of Engineering, Computer Science student from University of Edinburgh</h3>
+<h3 align="center">Computer Science @ University of Edinburgh
+ericng8766@gmail.com</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erriiiccccccc&label=Profile%20views&color=0e75b6&style=flat" alt="erriiiccccccc" /> </p>
 
