@@ -18,7 +18,7 @@
   </a>
   &nbsp;
   <a href="https://leetcode.com/erriiiccccccc" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="32"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="40"/>
   </a>
 </p>
 
