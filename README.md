@@ -10,15 +10,15 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/erriiiccccccc" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" height="48"/>
+    <img src="https://img.icons8.com/color/96/linkedin.png" height="32"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://instagram.com/ericccc____" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new.png" height="48"/>
+    <img src="https://img.icons8.com/color/96/instagram-new.png" height="32"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://leetcode.com/erriiiccccccc" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="48"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="32"/>
   </a>
 </p>
 
