@@ -10,15 +10,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/erriiiccccccc" target="_blank">
-    <img src="https://img.icons8.com/color/96/linkedin.png" height="48"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://instagram.com/ericccc____" target="_blank">
-    <img src="https://img.icons8.com/color/96/instagram-new.png" height="48"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://leetcode.com/erriiiccccccc" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="40"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
