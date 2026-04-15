@@ -10,15 +10,15 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/erriiiccccccc" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="22" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="22"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/ericccc____" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="22" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="22"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/erriiiccccccc" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="22" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="22"/>
   </a>
 </p>
 
