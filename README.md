@@ -21,7 +21,8 @@
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="48"/>
   </a>
 </p>
-# <h3 align="left">📊 GitHub Stats:</h3>
+
+<h3 align="left">📊 GitHub Stats:</h3>
 ![](https://github-readme-stats.vercel.app/api?username=erriiiccccccc&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=erriiiccccccc&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erriiiccccccc&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
