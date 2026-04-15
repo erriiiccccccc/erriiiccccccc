@@ -7,11 +7,19 @@
 
 - How to reach me **ericng8766@gmail.com**
 
-<h3 align="left">🔗 Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ericngminchern" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ericngminchern" height="30" width="40" /></a>
-<a href="https://instagram.com/ericccc____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ericccc____" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/erriiiccccccc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="erriiiccccccc" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/erriiiccccccc" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="22"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/ericccc____" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="22"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/erriiiccccccc" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="22"/>
+  </a>
 </p>
 
 # <h3 align="left">📊 GitHub Stats:</h3>
